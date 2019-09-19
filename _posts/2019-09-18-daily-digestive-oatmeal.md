@@ -5,7 +5,7 @@ title: Unibic Daily Digestive Oatmeal cookies
 
 Hi everyone, today I am reviewing Unibic Daily Digestive Oatmeal cookies along with Avyay. Avyay did not want a cookie, but provided significant moral support. 
 
-![Cookie Shot 2](assets/daily-digestive.jpeg)  
+![Daily Digestive](https://cookies.wtf/assets/daily-digestive.jpeg)  
 
 **Rationale for purchase**
 The cookies claim to have 26% of your daily fibre requirement, and I bought them in the hope that it would improve my subsistence diet of bananas, vada pao and chai.
