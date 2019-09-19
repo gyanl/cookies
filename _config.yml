@@ -2,7 +2,8 @@ title: Cookie Reviews
 author: Reviews by the Cookie Eaters Club
 email: . 
 description: > # this means to ignore newlines until "show_excerpts:" 
-All these cookies, we eat them. Then we review them. 
+"All these cookies, we eat them. Then we review them."
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
