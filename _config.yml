@@ -1,8 +1,8 @@
-title: Notes from Gyan
-author: Gyan Lakhwani
-email: hello@gyanl.com
+title: Cookie Eaters Club
+author: 
+email:  
 description: > # this means to ignore newlines until "show_excerpts:"
-  My name is Gyan, and I am an interaction designer and cat appreciator.
+All these cookies, we eat them. Then we review them. 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -13,14 +13,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: gyanl
-    github:  gyanl
-    rss: rss
+    # twitter: gyanl
+    # github:  gyanl
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: gyanlakhwani
+    # linkedin: gyanlakhwani
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
