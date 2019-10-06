@@ -27,3 +27,6 @@ The actual cookie
 
 #### convenience 
 7/10
+
+#### Testimonials
+> "good for chai pe charcha situations" - Shirin

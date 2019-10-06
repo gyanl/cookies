@@ -10,3 +10,7 @@ Tried this at 2:42 am, due to rather ordinary circumstances. However I guess the
 ![Cookie Shot 2](https://cookies.wtf/assets/chocofills-2.jpeg)  
 
 The outer shell of coarse cookie barely gave any resistance to the bite. Overall a very docile cookie, seems to like to keep things simple (unlike other samples like rusk, that would usually put up a good fight till the last bite). Wouldn't call it bite sized, but maybe a 3 bite size with a friendly circular shape with a bulge on one side giving it an attractive yet rather unimaginative appearance. Couldn't help but notice the void in the centre filled with chocolate that I expected would drip out but it seemed to have become semi solid. A rather simple, no bullshit experience. Would've loved to try this with cold milk/ a banana. Still, I would conclude by saying it's not the best substitute for breakfast, but a great gobble friendly cookie to keep you going.
+
+#### Testimonials
+
+> "The semi-solid core is interesting, I have always found it to be overly melty in the past but maybe I can try freezing it a bit next time to get it to the semi-solid state." - Nishita
