@@ -13,6 +13,8 @@ The wafer cubes were tastless at first but as the layered cream came through it 
 
 ![Jacker Wafer Cube 2](https://cookies.wtf/assets/jacker-2.jpeg)  
 
-PS: Try to ration these because they're deceptively light, so you might end up eating too many. 
+#### PS: 
+Try to ration these because they're deceptively light, so you might end up eating too many. 
 
-PPS: Mindhunter demonstrates the methodology for contextual enquiry and interviewing techniques covered in ixD user studies module 1.
+#### PPS:
+Mindhunter demonstrates the methodology for contextual enquiry and interviewing techniques covered in ixD user studies module 1.
