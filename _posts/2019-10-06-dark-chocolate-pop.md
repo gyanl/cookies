@@ -3,9 +3,9 @@ layout: post
 title: Premium Dark chocolate 46.5 pop
 ---
 
-![Premium Dark chocolate 46.5 pop](https://cookies.wtf/assets/dark-chocolate-pop.jpeg)  
+![Premium Dark chocolate 46.5 pop](https://gyanl.com/cookies/assets/dark-chocolate-pop.jpeg)  
 
-Eaten at 2:56am while watching Disenchantment s2. 
+Eaten at 2:56am while watching Disenchantment s2.
 
 ### Pros:
 - It looks very visually appealing because the red velvet has radial gradation from light to dark
@@ -27,11 +27,11 @@ Eaten at 2:56am while watching Disenchantment s2.
 
 ### Overall rating:
 
-#### 7/8 
+#### 7/8
 for yum visuals
 
-#### 6/8 
+#### 6/8
 for yum mouthfeel
 
-#### 8/8 
+#### 8/8
 for fun packaging

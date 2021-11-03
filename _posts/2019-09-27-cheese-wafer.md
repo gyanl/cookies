@@ -3,12 +3,12 @@ layout: post
 title: Cheese wafer
 ---
 
-![Cookie Shot 1](https://cookies.wtf/assets/cheese-wafer.jpeg)
+![Cookie Shot 1](https://gyanl.com/cookies/assets/cheese-wafer.jpeg)
 
-Ate this bizarre plastic tasting thingie. I liked the fact that it wasn’t too sweet, lol, cause it is a cheese wafer. Quantity is quite a bit for the price. It’s also a good snack to have with chai. I would have this everyday if I could. 
+Ate this bizarre plastic tasting thingie. I liked the fact that it wasn’t too sweet, lol, cause it is a cheese wafer. Quantity is quite a bit for the price. It’s also a good snack to have with chai. I would have this everyday if I could.
 
-#### Taste 
-7/10 
+#### Taste
+7/10
 
 #### Price
 8/10
